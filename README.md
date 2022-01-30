@@ -4,6 +4,9 @@ GravSim
 GravSim is an extremely basic game or tech demo that simulates N-body gravitational force.
 It uses Ebiten, a 2D game engine for Go.
 
+
+![screenshot](https://user-images.githubusercontent.com/1165651/151712567-ab8ac289-517d-4193-8415-e0e5ba5dbe56.png)
+
 GravSim isn't a great game to play; that wasn't really my goal. It is very simplistic and boring.
 I only wrote it to refresh my linear algebra and graphics coding skills. The code is messy, poorly organized,
 and there's a lot of half implemented ideas and stubs here and there, as the goals of this project kept shifting.
